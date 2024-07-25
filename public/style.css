@@ -1,3 +1,9 @@
 .row > * {
     border: 1px solid black;
 }
+.custom-space {
+      margin-left: 100px; 
+}
+.custom-space1 {
+    margin-left: 100px; 
+}
